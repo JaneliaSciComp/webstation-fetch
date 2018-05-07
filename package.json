@@ -1,0 +1,25 @@
+{
+  "name": "webstation-fetch",
+  "version": "0.1.0",
+  "description": "Wrapper around fetch to include custom headers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaneliaSciComp/webstation-fetch.git"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jody Clements",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaneliaSciComp/webstation-fetch/issues"
+  },
+  "homepage": "https://github.com/JaneliaSciComp/webstation-fetch#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
