@@ -1,6 +1,6 @@
 {
   "name": "webstation-fetch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrapper around fetch to include custom headers",
   "main": "index.js",
   "repository": {
